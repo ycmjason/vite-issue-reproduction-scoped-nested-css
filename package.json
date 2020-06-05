@@ -1,0 +1,17 @@
+{
+  "name": "postcss-nested-scoped-issue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-beta.14"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-beta.14",
+    "autoprefixer": "^9.8.0",
+    "postcss-nested": "^4.2.1",
+    "vite": "^0.20.0"
+  }
+}
